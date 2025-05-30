@@ -2,19 +2,15 @@
 
 Hey there! 👋
 
-This repository is your home for documenting your **Innovation School Project** and starting your **maker portfolio**.  
-You’ll be using the **GitHub Wiki** to update all your project details in a structured format.
+Millions of people worldwide rely on sign language to communicate, but many others do not understand it, creating a significant barrier between the Deaf and hearing communities. This communication gap affects everyday interactions, access to services, and full participation in society for sign language users.
+
 
 ---
 
 ## 🧠 What to Do First
 
-Start by writing a **brief introduction** to your project right here in this `README.md` file:
+We are developing a **sign language converting glove**—a wearable device equipped with sensors that detect hand and finger movements associated with sign language gestures. These movements are then translated in real-time into spoken or written language via a connected app or interface. This glove aims to facilitate smoother, faster, and more inclusive communication between sign language users and non-signers.
 
-🔹 What problem are you solving?  
-🔹 What’s your proposed solution?
-
-Just 2–3 lines are enough. This helps others quickly understand what your project is about.
 
 ---
 
