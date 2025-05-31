@@ -1,5 +1,7 @@
 # 📘 Project Unmute: A Sign Language to Speech Glove
 
+**Oorjit Sethi, Rabani Kohli, Advit Agrawal**
+
 **Problem Statement**
 
 Millions of people worldwide rely on sign language to communicate, but many others do not understand it, creating a significant barrier between the Deaf and hearing communities. This communication gap affects everyday interactions, access to services, and full participation in society for sign language users.
