@@ -43,52 +43,6 @@ We are developing a **sign language converting glove**—a wearable device equip
 - Web Application (Flask)
 - Database Interaction (SQLite / MySQL)
 
-
-## 🛠 Where to Document Everything Else
-
-We’ve already created a standard set of **Wiki pages** for your project in this repository — you just need to **update them with your project information**.
-
-Each section is ready with headings like:
-
-- Project Title
-- Problem Statement
-- Bill of Materials (BOM)
-- Solution Overview
-- SDG Goals Associated
-- Circuit & CAD Files
-- Media Gallery
-- License
-
-Please **do not delete the headings** — just replace the placeholder content under each.
-
----
-
-## 📚 How to Edit the GitHub Wiki Pages
-
-Follow these official GitHub help guides to learn how to edit your Wiki pages:
-
-🔗 [How to Add or Edit Wiki Pages](https://docs.github.com/en/communities/documenting-your-project-with-wikis/adding-or-editing-wiki-pages)  
-🔗 [How to Format and Save Content in Wikis](https://docs.github.com/en/communities/documenting-your-project-with-wikis/editing-wiki-content)
-
----
-
-## 📸 Visual Guide (Optional)
-
-If you’re unsure where the Wiki tab is:  
-📍 It’s on the top-right area of the repository (next to Code, Issues, Pull Requests).
-
-You’ll find your project listed there. Click on it, then click **“Edit”** to begin updating.
-
----
-
-## 🤝 Need Help?
-
-If you're confused at any step:
-- Ask your mentor or coordinator
-- Or drop a message in our Discord/WhatsApp support group
-
-Let’s build something awesome! 🚀
-
 ## License
 
 Licenses
@@ -108,6 +62,9 @@ MIT open source [license](http://opensource.org/licenses/MIT).
 
 ## 📬 Contact/Team
 
-> _List team members and contact emails or GitHub profiles._
+> Makers Asylum
+> Oorjit Sethi
+> Rabani Kohli
+> Advit Agrawal
 
 ---
